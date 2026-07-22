@@ -1,2 +1,2 @@
-# Valorant-Recreation
+# Valorant 1.0 Recreation
 
