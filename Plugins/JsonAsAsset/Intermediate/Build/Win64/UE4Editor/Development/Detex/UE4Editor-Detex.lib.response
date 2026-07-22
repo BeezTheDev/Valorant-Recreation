@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Detex.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Githu\Horror\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.obj"
+"E:\Githu\Horror\Plugins\JsonAsAsset\Intermediate\Build\Win64\UE4Editor\Development\Detex\Module.Detex.cpp.obj"
+"E:\Githu\Horror\Plugins\JsonAsAsset\Intermediate\Build\Win64\UE4Editor\Development\Detex\Default.rc2.res"
+/OUT:"E:\Githu\Horror\Plugins\JsonAsAsset\Intermediate\Build\Win64\UE4Editor\Development\Detex\UE4Editor-Detex.lib"
