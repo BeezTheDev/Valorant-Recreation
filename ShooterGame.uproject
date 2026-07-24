@@ -7,6 +7,10 @@
 		{
 			"Name": "JsonAsAsset",
 			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
 		}
 	]
 }
